@@ -1,4 +1,4 @@
----
+Account info code
 title: Getting started with your GitHub account
 intro: 'With a personal account on {% data variables.product.prodname_dotcom %}, you can import or create repositories, collaborate with others, and connect with the {% data variables.product.prodname_dotcom %} community.'
 versions:
@@ -6,7 +6,7 @@ versions:
   ghes: '*'
   ghae: '*'
   ghec: '*'
----
+Dil
 
 This guide will walk you through setting up your {% data variables.product.company_short %} account and getting started with {% data variables.product.product_name %}'s features for collaboration and community.
 
